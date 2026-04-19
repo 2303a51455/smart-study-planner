@@ -126,9 +126,4 @@ Learn API integration
 
 Create a real, deployable application
 
-👩‍💻 Author
 
-Elif Buğday
-GitHub: @elifbugdayy
-
-Email: elifbugday06@gmail.com
